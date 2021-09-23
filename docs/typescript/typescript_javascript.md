@@ -1,4 +1,4 @@
-# 面试官：说说你对 typescript 的理解？与 javascript 的区别？
+# 说说你对 typescript 的理解？与 javascript 的区别？
 
 
 

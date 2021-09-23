@@ -1,4 +1,4 @@
-# 面试官：说说如何在React项目中应用TypeScript？
+# 说说如何在React项目中应用TypeScript？
 
 
 
